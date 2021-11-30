@@ -7917,6 +7917,7 @@ Pin 19 of VIDC (CKIN) = pin 68 on socket
 <text x="546.1" y="10.16" size="1.778" layer="91">v2</text>
 <text x="50.8" y="406.4" size="1.778" layer="91">PTH for A3000, slightly taller &amp; no upper socket!</text>
 <text x="495.3" y="33.02" size="1.778" layer="91">(For A3000/soldered VIDC)</text>
+<text x="487.68" y="27.94" size="1.778" layer="91">CC BY-SA 3.0</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="55.88" y="68.58" smashed="yes">
